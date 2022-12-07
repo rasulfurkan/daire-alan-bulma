@@ -11,9 +11,11 @@ public class Main {
 
         double alan = (pi*(r*r)*a)/360 ;
         double cevre = 2*pi*r ;
+        double alan2= 2*r*r;
 
-        System.out.println("Alan = " + alan);
+        System.out.println(" daire dilim Alan = " + alan);
         System.out.println("Cevre = " + cevre);
+        System.out.println("ALAN = " + alan2);
 
 
     }
